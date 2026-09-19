@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "fragrance_001",
+    "display_name": "ACQUA FRESCA",
+    "internal_name": "ACQUA FRESCA",
+    "inspired_by": "Armani Acqua di Giò",
+    "world": "LIGHT",
+    "intensity": 2,
+    "source_moments": [
+      "Mañana",
+      "Día"
+    ],
+    "source_feelings": [
+      "Frescura",
+      "Libertad",
+      "Limpieza"
+    ],
+    "feelings": [
+      "Fresco",
+      "Libre"
+    ],
+    "profiles": [
+      "Fresco",
+      "Limpio"
+    ],
+    "contexts": [
+      "Día a día"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_002",
+    "display_name": "BLUNEL",
+    "internal_name": "BLUNEL",
+    "inspired_by": "Chanel Bleu de Chanel",
+    "world": "LIGHT",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Trabajo"
+    ],
+    "source_feelings": [
+      "Seguridad",
+      "Elegancia"
+    ],
+    "feelings": [
+      "Seguro",
+      "Elegante"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día",
+      "Trabajo"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_003",
+    "display_name": "LEBLANC",
+    "internal_name": "LEBLANC",
+    "inspired_by": "Lacoste Blanc",
+    "world": "LIGHT",
+    "intensity": 2,
+    "source_moments": [
+      "Día",
+      "Verano"
+    ],
+    "source_feelings": [
+      "Juventud",
+      "Limpieza",
+      "Espontaneidad"
+    ],
+    "feelings": [
+      "Fresco"
+    ],
+    "profiles": [
+      "Limpio"
+    ],
+    "contexts": [
+      "Día a día",
+      "Vacaciones / Playa"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_004",
+    "display_name": "ADRIAN",
+    "internal_name": "ADRIAN",
+    "inspired_by": "CH 212 NYC Men",
+    "world": "LIGHT",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Oficina"
+    ],
+    "source_feelings": [
+      "Modernidad",
+      "Dinamismo"
+    ],
+    "feelings": [],
+    "profiles": [],
+    "contexts": [
+      "Día a día",
+      "Trabajo"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_005",
+    "display_name": "BOSÉ",
+    "internal_name": "BOSÉ",
+    "inspired_by": "Hugo Boss Gris",
+    "world": "LIGHT",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Casual"
+    ],
+    "source_feelings": [
+      "Limpieza",
+      "Naturalidad"
+    ],
+    "feelings": [
+      "Fresco"
+    ],
+    "profiles": [
+      "Limpio"
+    ],
+    "contexts": [
+      "Día a día"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_006",
+    "display_name": "LENOIR",
+    "internal_name": "LENOIR",
+    "inspired_by": "Lacoste Noir",
+    "world": "LIGHT",
+    "intensity": 3,
+    "source_moments": [
+      "Tarde"
+    ],
+    "source_feelings": [
+      "Frescura",
+      "Misterio"
+    ],
+    "feelings": [
+      "Fresco",
+      "Misterioso"
+    ],
+    "profiles": [
+      "Fresco"
+    ],
+    "contexts": [],
+    "moments": [
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_007",
+    "display_name": "FOREVER",
+    "internal_name": "FOREVER",
+    "inspired_by": "CK Eternity Men",
+    "world": "LIGHT",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Tarde"
+    ],
+    "source_feelings": [
+      "Serenidad",
+      "Frescura"
+    ],
+    "feelings": [
+      "Tranquilo",
+      "Fresco"
+    ],
+    "profiles": [
+      "Fresco"
+    ],
+    "contexts": [
+      "Día a día"
+    ],
+    "moments": [
+      "Mañana",
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_008",
+    "display_name": "POLO SUR",
+    "internal_name": "POLO SUR",
+    "inspired_by": "Polo Blue",
+    "world": "LIGHT",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Aire libre"
+    ],
+    "source_feelings": [
+      "Libertad",
+      "Energía"
+    ],
+    "feelings": [
+      "Libre"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día",
+      "Vacaciones / Playa"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_009",
+    "display_name": "TURQUESA",
+    "internal_name": "TURQUESA",
+    "inspired_by": "Dolce & Gabbana Light Blue",
+    "world": "LIGHT",
+    "intensity": 2,
+    "source_moments": [
+      "Día",
+      "Playa"
+    ],
+    "source_feelings": [
+      "Frescura",
+      "Verano",
+      "Vitalidad"
+    ],
+    "feelings": [
+      "Fresco"
+    ],
+    "profiles": [
+      "Fresco"
+    ],
+    "contexts": [
+      "Día a día",
+      "Vacaciones / Playa"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [],
+    "gender_positioning": "Pendiente de clasificar",
+    "gender_source": "No aparece en el catálogo por género aportado"
+  },
+  {
+    "id": "fragrance_010",
+    "display_name": "ADRIANA",
+    "internal_name": "ADRIANA",
+    "inspired_by": "CH 212 Gris NYC",
+    "world": "ICON",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Tarde"
+    ],
+    "source_feelings": [
+      "Sofisticación",
+      "Personalidad"
+    ],
+    "feelings": [
+      "Sofisticado"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día"
+    ],
+    "moments": [
+      "Mañana",
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_011",
+    "display_name": "CATHERINE",
+    "internal_name": "CATHERINE",
+    "inspired_by": "Jean Paul Gaultier",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Sensualidad",
+      "Seguridad"
+    ],
+    "feelings": [
+      "Sensual",
+      "Seguro"
+    ],
+    "profiles": [
+      "Seductor"
+    ],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Mujer"
+    ],
+    "gender_positioning": "Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_012",
+    "display_name": "DIORE",
+    "internal_name": "DIORE",
+    "inspired_by": "Dior J’adore",
+    "world": "ICON",
+    "intensity": 2,
+    "source_moments": [
+      "Día",
+      "Cita"
+    ],
+    "source_feelings": [
+      "Feminidad",
+      "Delicadeza"
+    ],
+    "feelings": [
+      "Delicado"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día",
+      "Cita"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [],
+    "gender_positioning": "Pendiente de clasificar",
+    "gender_source": "No aparece en el catálogo por género aportado"
+  },
+  {
+    "id": "fragrance_013",
+    "display_name": "EXPLOSIVA",
+    "internal_name": "EXPLOSIVA",
+    "inspired_by": "V.S Bombshell",
+    "world": "ICON",
+    "intensity": 3,
+    "source_moments": [
+      "Día",
+      "Tarde"
+    ],
+    "source_feelings": [
+      "Confianza",
+      "Atractivo"
+    ],
+    "feelings": [
+      "Seguro"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día"
+    ],
+    "moments": [
+      "Mañana",
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_014",
+    "display_name": "BELLE EPOQUE",
+    "internal_name": "BELLE EPOQUE",
+    "inspired_by": "La Vie Est Belle",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Día",
+      "Tarde"
+    ],
+    "source_feelings": [
+      "Feminidad",
+      "Optimismo"
+    ],
+    "feelings": [
+      "Alegre"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día"
+    ],
+    "moments": [
+      "Mañana",
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Mujer"
+    ],
+    "gender_positioning": "Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_015",
+    "display_name": "CHARMIA",
+    "internal_name": "CHARMIA",
+    "inspired_by": "Chanel N°5",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Día",
+      "Evento"
+    ],
+    "source_feelings": [
+      "Elegancia",
+      "Sofisticación"
+    ],
+    "feelings": [
+      "Elegante",
+      "Sofisticado"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día",
+      "Evento especial"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_016",
+    "display_name": "FANTAZIA",
+    "internal_name": "FANTAZIA",
+    "inspired_by": "Fantasy",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Dulzura",
+      "Diversión"
+    ],
+    "feelings": [
+      "Alegre"
+    ],
+    "profiles": [
+      "Dulce"
+    ],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Mujer"
+    ],
+    "gender_positioning": "Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_017",
+    "display_name": "GODINA",
+    "internal_name": "GODINA",
+    "inspired_by": "Good Girl",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Dualidad",
+      "Seguridad"
+    ],
+    "feelings": [
+      "Seguro"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Mujer"
+    ],
+    "gender_positioning": "Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_018",
+    "display_name": "GOLD WOMAN",
+    "internal_name": "GOLD WOMAN",
+    "inspired_by": "Lady Million",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Evento",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Lujo",
+      "Confianza"
+    ],
+    "feelings": [
+      "Seguro"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Evento especial",
+      "Noche"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Mujer"
+    ],
+    "gender_positioning": "Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_019",
+    "display_name": "LEGADO",
+    "internal_name": "LEGADO",
+    "inspired_by": "Montblanc Legend",
+    "world": "ICON",
+    "intensity": 3,
+    "source_moments": [
+      "Trabajo",
+      "Cita"
+    ],
+    "source_feelings": [
+      "Elegancia",
+      "Carácter"
+    ],
+    "feelings": [
+      "Elegante"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Trabajo",
+      "Cita"
+    ],
+    "moments": [],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_020",
+    "display_name": "MATTHEW",
+    "internal_name": "MATTHEW",
+    "inspired_by": "D&G The One Men",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Carisma",
+      "Sofisticación"
+    ],
+    "feelings": [
+      "Sofisticado"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_021",
+    "display_name": "YES",
+    "internal_name": "YES",
+    "inspired_by": "Giorgio Armani Sí",
+    "world": "ICON",
+    "intensity": 4,
+    "source_moments": [
+      "Día",
+      "Cita",
+      "Evento"
+    ],
+    "source_feelings": [
+      "Elegancia",
+      "Feminidad",
+      "Determinación"
+    ],
+    "feelings": [
+      "Elegante"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Día a día",
+      "Cita",
+      "Evento especial"
+    ],
+    "moments": [
+      "Mañana"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_022",
+    "display_name": "SUGAR RUSH",
+    "internal_name": "SUGAR RUSH",
+    "inspired_by": "Odyssey Pink Pop",
+    "world": "BOLD",
+    "intensity": 4,
+    "source_moments": [
+      "Día",
+      "Tarde",
+      "Cita"
+    ],
+    "source_feelings": [
+      "Alegría",
+      "Coquetería",
+      "Dulzura"
+    ],
+    "feelings": [
+      "Alegre"
+    ],
+    "profiles": [
+      "Dulce"
+    ],
+    "contexts": [
+      "Día a día",
+      "Cita"
+    ],
+    "moments": [
+      "Mañana",
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_023",
+    "display_name": "BELMONDO",
+    "internal_name": "BELMONDO",
+    "inspired_by": "Jean Paul Gaultier Men",
+    "world": "BOLD",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Seducción",
+      "Seguridad"
+    ],
+    "feelings": [
+      "Sensual",
+      "Seguro"
+    ],
+    "profiles": [
+      "Seductor"
+    ],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_024",
+    "display_name": "BOLD JOURNEY",
+    "internal_name": "BOLD JOURNEY",
+    "inspired_by": "Musamam Black Intense",
+    "world": "BOLD",
+    "intensity": 5,
+    "source_moments": [
+      "Noche"
+    ],
+    "source_feelings": [
+      "Misterio",
+      "Poder",
+      "Sofisticación"
+    ],
+    "feelings": [
+      "Misterioso",
+      "Poderoso",
+      "Sofisticado"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Unisex",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_025",
+    "display_name": "ETERNAL TRADITION",
+    "internal_name": "ETERNAL TRADITION",
+    "inspired_by": "Valentino Uomo Born in Roma Intense",
+    "world": "BOLD",
+    "intensity": 5,
+    "source_moments": [
+      "Noche",
+      "Evento"
+    ],
+    "source_feelings": [
+      "Elegancia",
+      "Carácter"
+    ],
+    "feelings": [
+      "Elegante"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche",
+      "Evento especial"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_026",
+    "display_name": "EARTHLY PARADISE",
+    "internal_name": "EARTHLY PARADISE",
+    "inspired_by": "Escada Candy Love",
+    "world": "BOLD",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Cita"
+    ],
+    "source_feelings": [
+      "Dulzura",
+      "Diversión",
+      "Sensualidad"
+    ],
+    "feelings": [
+      "Alegre",
+      "Sensual"
+    ],
+    "profiles": [
+      "Dulce",
+      "Seductor"
+    ],
+    "contexts": [
+      "Cita"
+    ],
+    "moments": [
+      "Tarde"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Mujer"
+    ],
+    "gender_positioning": "Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_027",
+    "display_name": "INSATIABLE POWER",
+    "internal_name": "INSATIABLE POWER",
+    "inspired_by": "Azzaro The Most Wanted",
+    "world": "BOLD",
+    "intensity": 5,
+    "source_moments": [
+      "Noche",
+      "Cita"
+    ],
+    "source_feelings": [
+      "Poder",
+      "Magnetismo"
+    ],
+    "feelings": [
+      "Poderoso",
+      "Sensual"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche",
+      "Cita"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_028",
+    "display_name": "INVICTO II",
+    "internal_name": "INVICTO II",
+    "inspired_by": "Paco Rabanne Invictus",
+    "world": "BOLD",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Energía",
+      "Confianza"
+    ],
+    "feelings": [
+      "Seguro"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_029",
+    "display_name": "MILXMIL",
+    "internal_name": "MILXMIL",
+    "inspired_by": "Paco Rabanne 1 Million",
+    "world": "BOLD",
+    "intensity": 5,
+    "source_moments": [
+      "Noche",
+      "Fiesta"
+    ],
+    "source_feelings": [
+      "Ambición",
+      "Lujo",
+      "Audacia"
+    ],
+    "feelings": [
+      "Atrevido"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche",
+      "Evento especial"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_030",
+    "display_name": "VELVET POISON",
+    "internal_name": "VELVET POISON",
+    "inspired_by": "Korbaj Toxic Desire",
+    "world": "BOLD",
+    "intensity": 5,
+    "source_moments": [
+      "Noche",
+      "Cita"
+    ],
+    "source_feelings": [
+      "Misterio",
+      "Sensualidad"
+    ],
+    "feelings": [
+      "Misterioso",
+      "Sensual"
+    ],
+    "profiles": [
+      "Seductor"
+    ],
+    "contexts": [
+      "Noche",
+      "Cita"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Unisex",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_031",
+    "display_name": "VEROS",
+    "internal_name": "VEROS",
+    "inspired_by": "Versace Eros",
+    "world": "BOLD",
+    "intensity": 5,
+    "source_moments": [
+      "Noche",
+      "Fiesta"
+    ],
+    "source_feelings": [
+      "Pasión",
+      "Confianza",
+      "Magnetismo"
+    ],
+    "feelings": [
+      "Seguro",
+      "Sensual"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche",
+      "Evento especial"
+    ],
+    "moments": [
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre",
+      "Mujer"
+    ],
+    "gender_positioning": "Hombre / Mujer",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  },
+  {
+    "id": "fragrance_032",
+    "display_name": "WILD DEEP",
+    "internal_name": "WILD DEEP",
+    "inspired_by": "Dior Sauvage",
+    "world": "BOLD",
+    "intensity": 4,
+    "source_moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "source_feelings": [
+      "Libertad",
+      "Masculinidad",
+      "Carácter"
+    ],
+    "feelings": [
+      "Libre"
+    ],
+    "profiles": [],
+    "contexts": [
+      "Noche"
+    ],
+    "moments": [
+      "Tarde",
+      "Noche"
+    ],
+    "available": true,
+    "profiles_status": "partial",
+    "source": "Catálogo Nöte proporcionado por la marca",
+    "audiences": [
+      "Hombre"
+    ],
+    "gender_positioning": "Hombre",
+    "gender_source": "Catálogo por género aportado por la marca, 2026-09-10"
+  }
+]

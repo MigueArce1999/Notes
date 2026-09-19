@@ -1,0 +1,12 @@
+{
+  "pending_gender": [
+    "DIORE",
+    "TURQUESA"
+  ],
+  "pending_scent_metadata": [
+    "Moschino Toy 2 Bubble Gum"
+  ],
+  "duplicate_rows_merged": true,
+  "ambiguous_reference": "CH 212 VIP Rosé / Gris NYC is matched to existing ADRIANA (CH 212 Gris NYC), shared by both columns. Brand should confirm the exact reference.",
+  "source_policy": "Use brand classification, even when it differs from manufacturer market positioning."
+}

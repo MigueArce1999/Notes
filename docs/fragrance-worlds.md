@@ -1,0 +1,5 @@
+# Universos e intensidad
+Los universos LIGHT / ICON / BOLD son una clasificación editorial de Nöte, no familias universales de perfumería. Sus descripciones proceden del catálogo proporcionado por la marca. La rueda de Michael Edwards distingue familias como Fresh, Floral, Amber y Woody: https://www.fragrancesoftheworld.com/ (consultada durante esta edición).
+No se asignan ingredientes ni concentraciones a perfumes a partir del universo. La escala representa la intensidad que la marca indicó, no horas de duración ni porcentaje de esencia.
+Rangos calculados del catálogo completo: LIGHT 2–3, ICON 2–4 (incluye DIORE 2), BOLD 4–5. Cada tarjeta muestra cinco puntos con el máximo marcado, explícitamente rotulado «Hasta X/5», y el rango completo debajo. Los puntos no son una media ni una puntuación individual.
+Interacción: hover de ratón, foco de teclado o activación del control abren la explicación. Escape cierra. En móvil se toca el control. Un CTA separado comienza el cuestionario. La preferencia de movimiento reducido desactiva las transiciones del sitio.

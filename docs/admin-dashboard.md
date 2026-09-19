@@ -1,0 +1,12 @@
+# Panel administrativo Nöte
+- Acceso /admin con identidad ChatGPT y allowlist de NOTE_ADMIN_EMAILS validada en el servidor para todas las operaciones.
+- Almacenamiento D1 DB; migración Drizzle 0000_bent_the_watchers.sql. No datos de prueba. Supabase anterior queda desconectado de las rutas activas, sin borrar ni migrar ningún dato externo.
+- Creación, edición y archivo de Nötes, pedidos y movimientos. Perfiles del cuestionario guardados en el mismo almacenamiento; se pueden convertir en Nöte precargada y consultar sus respuestas.
+- Edición con control de revisión: no sobrescribe silenciosamente cambios simultáneos. Creación con UUID estable durante el reintento para evitar duplicados administrativos. Archivo conserva datos en la base y los excluye de las vistas e informes.
+- COP enteros. Ventas y costo de producto solo de pedidos entregados. Pedidos cancelados excluidos de totales. Cobrado/por cobrar agrupa pedidos por fecha del pedido; no es un libro de caja por fecha de cada pago. Margen estimado = ventas entregadas - costo de producto entregado - gastos operativos. Inversión separada.
+- Exportación CSV de datos filtrados, con escape de fórmulas. Los periodos afectan métricas e informes, la búsqueda afecta las tablas de gestión.
+- Verificación: build y TypeScript correctos; pruebas de cálculo para cancelaciones, abonos, rangos, gastos y margen; validación de fechas/importes; migración SQLite y edición concurrente probadas localmente. La persistencia alojada se activa al publicar la versión con la migración.
+
+## Captura pública y conservación
+La experiencia de clientes es pública, mientras /admin y cada API administrativa exigen identidad y lista de correos autorizados. Guardar un cuestionario crea atómicamente un perfil y su Nöte en desarrollo. Fórmula y presentación quedan por definir: no se inventan cantidades. Una clave UUID por solicitud permite reintentar sin duplicar los registros. El panel consulta novedades cada 15 segundos y al recuperar el foco.
+Se conserva el mismo binding DB y la migración aplicada, sin borrar ni recrear tablas. /api/admin/backup permite al administrador descargar JSON de todos los registros, incluidos los archivados. Es una exportación manual completa; no se ha configurado una política externa de respaldos automáticos ni una interfaz de restauración. No constituye una garantía absoluta contra toda pérdida. Antes de esta publicación, la inspección del servicio mostró cero registros en admin_records.
