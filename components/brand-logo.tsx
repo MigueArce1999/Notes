@@ -1,3 +1,4 @@
+import {appPath,assetPath} from '@/lib/note-client';
 type BrandLogoProps = {
   placement?: 'header' | 'footer' | 'admin';
 };
@@ -6,7 +7,7 @@ type BrandLogoProps = {
 export function BrandLogo({ placement = 'header' }: BrandLogoProps) {
   return (
     <a
-      href="/"
+      href={appPath('/')}
       className={`brand-logo brand-logo--${placement}`}
       aria-label="Nöte — Crea tu propia esencia. Ir al inicio"
     >
@@ -18,7 +19,7 @@ export function BrandLogo({ placement = 'header' }: BrandLogoProps) {
         focusable="false"
       >
         <image
-          href="/brand/note-logo-original.jpeg"
+          href={assetPath('/brand/note-logo-original.jpeg')}
           width="1254"
           height="1254"
         />
